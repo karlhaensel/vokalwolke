@@ -1,0 +1,29 @@
+﻿body {
+    font-family: 'Courier New', monospace;
+    margin: 0;
+    padding: 20px;
+    text-align: left;
+    background: #2c2c2c;
+    color: #ffffff;
+}
+.content, .authordate {
+    max-width: 600px;
+    margin: 50px auto;
+}
+.authordate {
+    color: #888888;
+}
+footer {
+    margin-top: 50px;
+    padding: 10px;
+    text-align: right;
+    background: #2c2c2c;
+}
+.impressum-link {
+    font-size: 0.8em;
+    color: #888888;
+    text-decoration: none;
+}
+.impressum-link:hover {
+    color: #bbbbbb;
+}
